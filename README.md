@@ -8,7 +8,7 @@
 description: https://community.aseprite.org/t/color-cycling-palette-shifting-v0-05-update-29-12-2020/7604 
 
 ---
-**Get colour list** - optional tool to use with colour cycle - pick colour, click on button and it's index will show in text box 
+**Get colour list** - optional tool to use with colour cycle - pick colour, click on button and its index will show in text box 
 
 description: https://community.aseprite.org/t/color-cycling-palette-shifting-v0-05-update-29-12-2020/7604  
 
