@@ -27,6 +27,6 @@ description: https://community.aseprite.org/t/quickly-mix-two-colours/8427
 ---
 **Session** - save the list of all opened sprites and load them all later with single click. 
 
-don’t forget to create file named session in your scripts folder! 
+don’t forget to create file named *session* in your scripts folder! 
 
 description: https://community.aseprite.org/t/save-and-load-session-v0-01/13050
